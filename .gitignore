@@ -135,3 +135,13 @@ geckodriver.exe
 
 #pycharm
 .idea/
+
+
+#webdrivers
+geckodriver
+geckodriver.log
+
+
+#my_venv
+my_venv
+.DS_Store
